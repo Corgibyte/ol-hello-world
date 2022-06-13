@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "webpack": "^5.58.1",
-    "webpack-cli": "^4.9.2",
+    "webpack-cli": "^4.10.0",
     "webpack-nano": "^1.1.1"
   },
   "dependencies": {
